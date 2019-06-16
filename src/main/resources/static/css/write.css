@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+.trumbowyg-button-pane {
+    background: #F1FDE7 !important;
+    border-bottom: 1px solid #2e5e07 !important;
+    border-top-left-radius: 9px !important;
+    border-top-right-radius: 9px !important;
+}
+
+.trumbowyg-box,
+.trumbowyg-editor {
+    /*border: none !important;*/
+    border-radius: 9px !important;
+    min-height: 470px !important;
+}
+
+.trumbowyg-editor,
+.trumbowyg-textarea {
+    font-family: 'IBM Plex Serif', serif !important;
+    line-height: 150% !important;
+    color: #111 !important;
+}
+
+.trumbowyg-box.trumbowyg-editor-visible .trumbowyg-textarea {
+    display: none !important;
+}
+
+.panda-smallheadtitle-normal {
+    color: #2e5e07;
+    font-family: 'IBM Plex Serif', serif;
+}

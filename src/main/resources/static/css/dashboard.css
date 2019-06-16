@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script|Roboto);
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap');
+
+.panda-side-bar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+}
+
+.panda-noborder {
+    border: none;
+    border-radius: 7px;
+}
+
+.panda-smallheadtitle-light {
+    font-weight: lighter;
+    color: #2e5e07;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.panda-smallheadtitle-normal {
+    color: #2e5e07;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.panda-smallheadtitle-bold {
+    font-weight: bold;
+    color: #2e5e07;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.panda-link-underline:hover {
+    color: #2e5e07;
+}
+
+.panda-link-underline:visited {
+    color: #2e5e07;
+}
+
+.panda-link-underline-banned {
+    color: #b2b2b2;
+}
+
+.panda-link-underline-banned:hover {
+    color: #a2a2a2;
+}
+
+.panda-link-underline-banned:visited {
+    color: #b2b2b2;
+}

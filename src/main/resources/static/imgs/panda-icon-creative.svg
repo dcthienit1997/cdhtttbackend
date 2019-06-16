@@ -1,0 +1,93 @@
+<svg version="1.1" id="panda-icon-creative" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+     viewBox="0 0 175.49 274.58" style="enable-background:new 0 0 175.49 274.58;" xml:space="preserve">
+<defs>
+	<style type="text/css">
+	.creative0{fill:none;stroke:#2e5e07;stroke-miterlimit:10;stroke-width:2;}
+	.creative1{fill:none;stroke:#2e5e07;stroke-miterlimit:10;stroke-width:2;}
+	.creative2{fill:none;stroke:#2e5e07;stroke-miterlimit:10;stroke-width:2;}
+	.creative3{fill:none;stroke:#FFff00;stroke-miterlimit:10;stroke-width:1;}
+	.creative0 {
+				fill-dasharray: 800;
+				stroke-dasharray: 800;
+				stroke-dashoffset: 0;
+				-webkit-animation: dash 5s linear forwards;
+				-o-animation: dash 5s linear forwards;
+				-moz-animation: dash 5s linear forwards;
+				animation: dash 5s linear forwards;
+		}
+			@-webkit-keyframes dash {
+				from {
+					stroke-dashoffset: 800;
+				}
+				to {
+					stroke-dashoffset: 0;
+				}
+			}
+		.creative1 {
+				fill-dasharray: 800;
+				stroke-dasharray: 800;
+				stroke-dashoffset: 0;
+				-webkit-animation: dash 10s linear forwards;
+				-o-animation: dash 10s linear forwards;
+				-moz-animation: dash 10s linear forwards;
+				animation: dash 10s linear forwards;
+		}
+			@-webkit-keyframes dash {
+				from {
+					stroke-dashoffset: 800;
+				}
+				to {
+					stroke-dashoffset: 0;
+				}
+			}
+		.creative2 {
+				fill-dasharray: 800;
+				stroke-dasharray: 800;
+				stroke-dashoffset: 0;
+				-webkit-animation: dash 10s linear forwards;
+				-o-animation: dash 10s linear forwards;
+				-moz-animation: dash 10s linear forwards;
+				animation: dash 10s linear forwards;
+		}
+			@-webkit-keyframes dash {
+				from {
+					stroke-dashoffset: 800;
+				}
+				to {
+					stroke-dashoffset: 0;
+				}
+			}
+		.creative3 {
+				fill-dasharray: 800;
+				stroke-dasharray: 800;
+				stroke-dashoffset: 0;
+				-webkit-animation: dash 10s linear forwards;
+				-o-animation: dash 10s linear forwards;
+				-moz-animation: dash 10s linear forwards;
+				animation: dash 10s linear forwards;
+		}
+			@-webkit-keyframes dash {
+				from {
+					stroke-dashoffset: 800;
+				}
+				to {
+					stroke-dashoffset: 0;
+				}
+			}
+</style>
+</defs>
+
+    <g>
+	<path class="creative0" d="M87.75,0.5C39.64,0.5,0.5,39.64,0.5,87.75c0,19.7,6.46,38.31,18.67,53.8c10.58,13.42,20.76,28.31,29.44,43.05
+		l0.38,0.65v27.88h77v-27.1l0.4-0.66c9.2-15.34,20.39-31.72,29.92-43.81c12.22-15.49,18.68-34.1,18.68-53.82
+		C174.99,39.64,135.85,0.5,87.75,0.5z"/>
+        <path class="creative1" d="M70.74,257.33l2.18,0.13h29.72l2.14-0.13c9.1-0.54,16.42-7.41,17.72-16.14H52.99
+		C54.28,249.93,61.62,256.8,70.74,257.33z"/>
+        <path class="creative2"
+              d="M87.74,274.08c6.11,0,11.35-3.7,13.53-9.17H74.22C76.4,270.37,81.64,274.08,87.74,274.08z"/>
+        <path class="creative2" d="M121.06,220.59H54.42c-3.62,0-6.57,2.95-6.57,6.57c0,3.62,2.95,6.57,6.57,6.57h66.64
+		c3.63,0,6.57-2.95,6.57-6.57C127.64,223.54,124.69,220.59,121.06,220.59z"/>
+        <polygon class="creative3" points="93.16,127.01 82.44,153.11 76.89,131.84 62.5,141.47 78.2,213.14 97.14,212.98 112.99,139.07
+		99.54,145.22 	"/>
+</g>
+</svg>

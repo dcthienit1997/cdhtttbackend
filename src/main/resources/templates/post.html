@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Post</title>
+</head>
+<body>
+<form action="" th:object="${post}">
+    <input th:field="*{title}" type="text">
+    <input th:field="*{view}" type="text">
+</form>
+</body>
+</html>
